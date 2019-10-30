@@ -2,12 +2,21 @@ body {
 	background-color : #d8e6ad;
 }
 
-header, main, footer, nav {
+header{
 	text-align : center;
-
 }
 
+main {
+	text-align : center;
+}
 
+footer{
+	text-align : center;
+}
+
+nav {
+	text-align : center;
+}
 .head_img {
 	display: inline-block;
 	margin-left : auto;
