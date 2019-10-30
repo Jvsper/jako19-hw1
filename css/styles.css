@@ -31,13 +31,14 @@ nav a:hover {
 	font-size : 40px;
 }
 
+
 main {
 
     background-color: #cccccc;
     background-image: linear-gradient(red, yellow, green);
-	margin-right: 25%;
-	margin-left: 25%;
-	border: solid black 2px;
+	margin-right: 22%;
+	margin-left: 22%;
+
 }
 
 main div{
@@ -63,6 +64,10 @@ main div{
     margin-left : 25% ;
  }
 
+#what-is-html {
+	max-width: 40%;
+	height:auto;
+}
 
  }
 
